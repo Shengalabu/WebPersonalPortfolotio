@@ -1,0 +1,10 @@
+While debugging type "npm start" to run app
+
+"npx sanity dev" to start sanity
+
+const about = [
+  { title: 'Game Developer', description: 'I create unforgetable gaming experiences.', imgURL: images.about01},
+  { title: 'Full Stack Developer', description: 'Creating both backend and frontend web developement.', imgURL: images.about02},
+  { title: '3D/2D Graphics Designer', description: 'The capability to create anything is in my hands.', imgURL: images.about03},
+  { title: 'UI/UX', description: 'A good UI is a great in the eye.', imgURL: images.about04}
+];
